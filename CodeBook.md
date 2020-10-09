@@ -3,15 +3,8 @@ title: "Code Book"
 subtitle: "Documentation for Getting and Cleaning Data course final project"
 author: "Sebastian Parra"
 date: "09-10-2020"
-output: 
-    html_document:
-        toc: true
-        toc_depth: 3
----
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+---
 
 # Raw Data
 
